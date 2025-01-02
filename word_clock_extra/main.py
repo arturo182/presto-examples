@@ -32,7 +32,7 @@ words = [
     "twelve", "xmsgfro",
     "m", "nine", "ar", "five", "tu",
     "two", "r", "eight", "ohav",
-    "e", "eleven", "ani", "six"
+    "e", "eleven", "ani", "six",
     "ce", "three", "da", "one", "y",
     "all", "ten", "o'clock"
     ]
