@@ -30,7 +30,7 @@ words = [
     "s", "to", "isxase", "past",
     "c", "four", "re", "seven", "t",
     "twelve", "xmsgfro",
-    "m", "nine", "ar", "five", "tu"
+    "m", "nine", "ar", "five", "tu",
     "two", "r", "eight", "ohav",
     "e", "eleven", "ani", "six"
     "ce", "three", "da", "one", "y",
